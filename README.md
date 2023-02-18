@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning Everything I can 
 - 💞️ I’m looking to collaborate on AIML,WebD,Music & Gaming
 
-<img align="left" width=48% src="https://github-readme-stats.vercel.app/api?username=demoncyborg&show_icons=true&theme=transparent&include_all_commits=true&hide=stars,issues,contribs" />
-<img align="right" width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoncyborg&layout=compact&theme=transparent" />
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=demoncyborg&show_icons=true&theme=transparent&include_all_commits=true&hide=stars,issues,contribs" />
+<img align="right" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoncyborg&layout=compact&theme=transparent" />
 
 # Tools,
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
